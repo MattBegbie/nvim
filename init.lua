@@ -8,3 +8,4 @@ require("core.keymaps")
 --for i=0, 1000 do
   --  io.write("orig=",myStr, "\n")
 --end
+--test
