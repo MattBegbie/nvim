@@ -40,6 +40,10 @@ use 'wbthomason/packer.nvim'
     use 'nvim-lualine/lualine.nvim'
     use 'terrortylor/nvim-comment'
 
+    -- personal finds
+    use 'lukas-reineke/indent-blankline.nvim'
+    
+
     -- from ThePrimegeon nvim 0-lsp
 
     -- TELESCOPE
