@@ -52,6 +52,7 @@ use 'wbthomason/packer.nvim'
     -- or                            , branch = '0.1.x',
     requires = { {'nvim-lua/plenary.nvim'} }
 }
+    use 'folke/trouble.nvim'
 -- TREESITTER 
 use('nvim-treesitter/nvim-treesitter', {run = ':TSUpdate'})
 -- use('nvim-treesitter/playground')

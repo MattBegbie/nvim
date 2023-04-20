@@ -20,9 +20,11 @@ lsp.set_sign_icons({
 lsp.ensure_installed({
     'clangd',
     -- 'jsonls'
-    'java-language-server',
+    -- 'java-language-server',
+    -- 'java-language-server',
+    'jdtls',
     'powershell_es',
-    'r_language_server',
+    -- 'r_languageserver',
     -- 'sqls'
     'cmake',
     -- 'bashls',
